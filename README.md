@@ -1,9 +1,9 @@
-# Instalación de test-queo-front
+# Instalación de test-queo-front-vue
 
 ## Project setup
 
 ```
-cd test-queo-back
+cd test-queo-front-vue
 ```
 
 ```
